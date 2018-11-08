@@ -1,0 +1,15 @@
+{
+  "data": {
+    "results": [
+      {
+        "id": "1",
+        "title": "Spiderman",
+       /* "thumbnail": {
+          "path": "path_spiderman",
+          "extension": "spiderman.jpg"
+        },*/
+        "pageCount": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "results": [
+      {
+        "id": "1",
+        "title": "Spiderman",
+        "thumbnail": {
+          "path": "path_spiderman",
+          "extension": "spiderman.jpg"
+        },
+        "pageCount": 10
+      },
+      {
+        "id": "2",
+        "title": "Batman",
+        "thumbnail":
+          {
+            "path": "path_batman",
+            "extension": "batman.jpg"
+          },
+        "pageCount": 20
+      }
+    ]
+  }
+}
