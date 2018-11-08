@@ -69,9 +69,22 @@ dependencies {
 
     //===== TEST DEPS =======
 
+    //basic
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+
+    //more
+    testImplementation 'org.mockito:mockito-inline:2.10.0'
+    testImplementation 'org.assertj:assertj-core:2.9.0'
+    testImplementation 'com.squareup.assertj:assertj-android:1.1.1'
+    testImplementation 'android.arch.core:core-testing:1.1.1'
+
+    androidTestImplementation 'com.android.support.test.espresso:espresso-contrib:3.0.2'
+
+    kaptAndroidTest 'com.google.dagger:dagger-compiler:2.17'
+    kaptAndroidTest 'com.google.dagger:dagger-android-processor:2.15'
+
 }
 
 repositories {
