@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">TABTestUpdatedDep</string>
+    <string name="app_name">Marvel Comics</string>
+    <string name="backdrop_title">MARVEL COMICS</string>
+    <string name="backdrop_subtitle">TAB test app by S Kinzl</string>
+    <string name="unknown_number_of_pages">Unknown</string>
+    <string name="pages">pages</string>
 </resources>
